@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "informatiktheater": "github:mint-n-pepper/Informatiktheater#77f045f8805e03ed24fe254ec8321aad6eef3920"
+        "informatiktheater": "github:mint-n-pepper/informatiktheater#bb7098ab9653b7bf5540327b1724177abc5b5aee"
     },
     "files": [
         "main.blocks",
